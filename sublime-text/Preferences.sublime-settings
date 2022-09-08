@@ -1,0 +1,18 @@
+{
+	"block_caret": true,
+	"caret_extra_top": 0,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"KiteSublime",
+		"Vintage",
+	],
+	"index_files": false,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme",
+	"wide_caret": true,
+}
