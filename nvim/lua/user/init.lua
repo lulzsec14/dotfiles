@@ -45,6 +45,7 @@ local config = {
   options = {
     opt = {
       relativenumber = true, -- sets vim.opt.relativenumber
+      -- guicursor = "",
     },
     g = {
       mapleader = " ", -- sets vim.g.mapleader

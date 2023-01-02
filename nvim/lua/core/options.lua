@@ -28,6 +28,7 @@ astronvim.vim_opts(astronvim.user_plugin_opts("options", {
     swapfile = false, -- Disable use of swapfile for the buffer
     tabstop = 2, -- Number of space in a tab
     termguicolors = true, -- Enable 24-bit RGB color in the TUI
+    -- guicursor = "",
     timeoutlen = 300, -- Length of time to wait for a mapped sequence
     undofile = true, -- Enable persistent undo
     updatetime = 300, -- Length of time to wait before triggering the plugin

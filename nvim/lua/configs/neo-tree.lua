@@ -38,7 +38,7 @@ neotree.setup(astronvim.user_plugin_opts("plugins.neo-tree", {
   filesystem = {
     filtered_items = {
       visible = false,
-      hide_dotfiles = true,
+      hide_dotfiles = false,
       hide_gitignored = false,
       hide_by_name = {
         ".DS_Store",
